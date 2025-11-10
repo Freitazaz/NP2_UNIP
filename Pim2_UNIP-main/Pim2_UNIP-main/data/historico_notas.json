@@ -1,0 +1,6 @@
+[
+  {"faltas": 2, "media": 8.5, "entregas_atraso": 0, "reprovou": 0},
+  {"faltas": 15, "media": 5.0, "entregas_atraso": 3, "reprovou": 1},
+  {"faltas": 10, "media": 6.0, "entregas_atraso": 1, "reprovou": 0},
+  {"faltas": 18, "media": 4.8, "entregas_atraso": 4, "reprovou": 1}
+]
