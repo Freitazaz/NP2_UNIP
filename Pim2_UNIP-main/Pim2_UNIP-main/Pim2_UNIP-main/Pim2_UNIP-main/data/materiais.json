@@ -1,0 +1,7 @@
+[
+  {"id": "m1", "titulo": "Introdução à programação em C", "descricao": "Conceitos básicos"},
+  {"id": "m2", "titulo": "Estrutura de dados", "descricao": "Listas, árvores"},
+  {"id": "m3", "titulo": "Redes de computadores", "descricao": "TCP/IP e protocolos"},
+  {"id": "m4", "titulo": "Inteligência Artificial", "descricao": "Machine Learning e IA"},
+  {"id": "m5", "titulo": "Sustentabilidade na TI", "descricao": "Práticas verdes"}
+]
